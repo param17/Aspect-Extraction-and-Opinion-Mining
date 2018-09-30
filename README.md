@@ -3,6 +3,8 @@
 The idea of the project is to visualize the aspect-based opinions of a given product in real time as a heat map based on demographics.
 A user can see the twitter sentiment for a given a product ona  heat map. This applications would be usefull for companies who would want to see how any product is being recieved by the public.
 
+Demo: [https://drive.google.com/file/d/1zUeC4FPc74mw2Z6SB1qXauo8p6Ex2Cc9/view?usp=sharing](https://drive.google.com/file/d/1zUeC4FPc74mw2Z6SB1qXauo8p6Ex2Cc9/view?usp=sharing)
+
 ### Getting Started
 
 **_Prerequisites_**
